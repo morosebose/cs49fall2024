@@ -16,4 +16,4 @@ Acknowledgments:
 - Sarah Khan, Foothill College
 - Sina Khazaei, Foothill College
 - Vaibhavi Kulkarni, Foothill College
-- Alex M, Foothill College
+- Alex Martinez, Foothill College
