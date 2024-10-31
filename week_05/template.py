@@ -6,7 +6,9 @@ Description of problem
 Programmer: Your name here, Date: date modified here
 """
 
-# import statements
+# imports: 
+# - 'from module import function' statements
+# - 'import library' statements
 
 # CONSTANTS
 
